@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.qishijob.cn/sitemap.xml
